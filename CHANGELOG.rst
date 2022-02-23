@@ -2,8 +2,8 @@
 Changelog for package cpu_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2022-02-23)
+------------------
 * Add dependencies
 * Clean up python package
 * Update package.xml email address
