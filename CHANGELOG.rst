@@ -2,8 +2,8 @@
 Changelog for package cpu_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2023-02-22)
+------------------
 * Fix changelog
 * 0.1.0
 * Update changelogs
