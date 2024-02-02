@@ -2,8 +2,8 @@
 Changelog for package cpu_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.0 (2024-02-02)
+------------------
 * Fix
 * Contributors: Gary Servin
 
